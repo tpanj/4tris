@@ -1,4 +1,4 @@
-# 4tris
+# 4tris archived - please move to https://github.com/tpanj/tetris42
 
 Tetris for 2 (up to 4 in progress).
 
